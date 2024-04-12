@@ -11,7 +11,7 @@ Image segmentation is a crucial task in computer vision, involving the division 
 - **Chan-Vese Algorithm Implementation**: Detailed MATLAB scripts demonstrating the efficacy of the Chan-Vese method in capturing complex object boundaries.
 - **Novel Functional Loss Framework**: Implementation in PyTorch of a new loss function, which incorporates active contour concepts for improved segmentation performance.
 - **Comprehensive Documentation**: Detailed explanation of methods, including the level set method and noise introduction techniques for robust image processing.
-- **Experimentation and Results**: Contains pre-processed datasets and scripts to reproduce the results discussed in the paper.
+- **Experimentation and Results**: Contains pre-processed datasets and scripts to reproduce the results discussed in the paper below.
 
 
 
